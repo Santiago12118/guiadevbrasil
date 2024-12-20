@@ -163,7 +163,7 @@
 [🐊 Sites e cursos para aprender Wordpress](#-sites-e-cursos-para-aprender-wordpress) <br>
 [🐳 Sites e cursos para aprender Docker](#-sites-e-cursos-para-aprender-docker) <br>
 [🦜 Sites e cursos para aprender Kubernets](#-sites-e-cursos-para-aprender-kubernets) <br>
-[🐆 Sites e cursos para aprender Nest](#-sites-e-cursos-para-aprender-nest) <br>
+[🐆 Sites e cursos para aprender Néstor ](#-sites-e-cursos-para-aprender-nest) <br>
 [🐿 Sites e cursos para aprender Laravel](#-sites-e-cursos-para-aprender-laravel) <br>
 [🐃 Sites e cursos para aprender AWS](#-sites-e-cursos-para-aprender-aws) <br>
 [🐬 Sites e cursos para aprender Google Cloud](#-sites-e-cursos-para-aprender-google-cloud) <br>
